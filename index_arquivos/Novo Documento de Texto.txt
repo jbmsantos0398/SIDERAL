@@ -1,0 +1,175 @@
+<!---------------------------------------------------------------------------------->
+<!--##############################################################################-->
+<!---------------------------------------------------------------------------------->
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.container {
+  border: 2px solid #ccc;
+  background-color: #eee;
+  border-radius: 5px;
+  padding: 16px;
+  margin: 16px 0
+}
+
+.container::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.container img {
+  float: left;
+  margin-right: 20px;
+  border-radius: 50%;
+}
+
+.container span {
+  font-size: 20px;
+  margin-right: 15px;
+}
+
+@media (max-width: 500px) {
+  .container {
+      text-align: center;
+  }
+  .container img {
+      margin: auto;
+      float: none;
+      display: block;
+  }
+}
+</style>
+</head>
+<body>
+<!----------------------------------------------------------->
+<!------------------------------
+https://www.radios.com.br/#google_vignette
+----------------------------->
+<!----------------------------------------------------------->
+<!----------------------------------------------------------->
+<!----------------------------------------------------------->
+<!----------------------------------------------------------->
+<!----------------------------------------------------------->
+<!----------------------------------------------------------->
+<!----------------------------------------------------------->
+<!----------------------------------------------------------->
+<div class="container"><img src="
+https://play-lh.googleusercontent.com/76AjYITcB0dI0sFqdQjNgXQxRMlDIswbp0BAU_O5Oob-73b6cqKggVlAiNXQAW5Bl1g
+" alt="Avatar" style="width:90px"><p><b>
+Music youtube
+</b></p><p><FONT COLOR="#bbb">
+Entre com sua conta
+</FONT></p><a target="_blank" href="https://music.youtube.com/">P L A Y</a></div>
+<!----------------------------------------------------------->
+<div class="container"><img src="
+IMAGEM⚫
+" alt="Avatar" style="width:90px"><p><b>
+NOMERÁDIA⚫
+<b></b></p><p><FONT COLOR="#bbb">
+NOMECOMPLEMENTAR⚫
+</FONT></p><a target="_blank" href="ARQUIVOS HTML/
+NOMERÁDIA⚫
+.html">P L A Y</a></div>
+<!----------------------------------------------------------->
+<div class="container"><img src="
+IMAGEM⚫
+" alt="Avatar" style="width:90px"><p><b>
+NOMERÁDIA⚫
+<b></b></p><p><FONT COLOR="#bbb">
+NOMECOMPLEMENTAR⚫
+</FONT></p><a target="_blank" href="ARQUIVOS HTML/
+NOMERÁDIA⚫
+.html">P L A Y</a></div>
+<!----------------------------------------------------------->
+<div class="container"><img src="
+IMAGEM⚫
+" alt="Avatar" style="width:90px"><p><b>
+NOMERÁDIA⚫
+<b></b></p><p><FONT COLOR="#bbb">
+NOMECOMPLEMENTAR⚫
+</FONT></p><a target="_blank" href="ARQUIVOS HTML/
+NOMERÁDIA⚫
+.html">P L A Y</a></div>
+<!----------------------------------------------------------->
+<div class="container"><img src="
+IMAGEM⚫
+" alt="Avatar" style="width:90px"><p><b>
+NOMERÁDIA⚫
+<b></b></p><p><FONT COLOR="#bbb">
+NOMECOMPLEMENTAR⚫
+</FONT></p><a target="_blank" href="ARQUIVOS HTML/
+NOMERÁDIA⚫
+.html">P L A Y</a></div>
+<!----------------------------------------------------------->
+<div class="container"><img src="
+IMAGEM⚫
+" alt="Avatar" style="width:90px"><p><b>
+NOMERÁDIA⚫
+<b></b></p><p><FONT COLOR="#bbb">
+NOMECOMPLEMENTAR⚫
+</FONT></p><a target="_blank" href="ARQUIVOS HTML/
+NOMERÁDIA⚫
+.html">P L A Y</a></div>
+<!----------------------------------------------------------->
+<div class="container"><img src="
+IMAGEM⚫
+" alt="Avatar" style="width:90px"><p><b>
+NOMERÁDIA⚫
+<b></b></p><p><FONT COLOR="#bbb">
+NOMECOMPLEMENTAR⚫
+</FONT></p><a target="_blank" href="ARQUIVOS HTML/
+NOMERÁDIA⚫
+.html">P L A Y</a></div>
+<!----------------------------------------------------------->
+<div class="container"><img src="
+IMAGEM⚫
+" alt="Avatar" style="width:90px"><p><b>
+NOMERÁDIA⚫
+<b></b></p><p><FONT COLOR="#bbb">
+NOMECOMPLEMENTAR⚫
+</FONT></p><a target="_blank" href="ARQUIVOS HTML/
+NOMERÁDIA⚫
+.html">P L A Y</a></div>
+<!----------------------------------------------------------->
+
+
+
+
+
+
+<div class="container"><img src="
+IMAGEM⚫
+" alt="Avatar" style="width:90px"><p><b>
+NOMERÁDIA⚫
+<b></b></p><p><FONT COLOR="#bbb">
+NOMECOMPLEMENTAR⚫
+</FONT></p><a target="_blank" href="ARQUIVOS HTML/
+NOMERÁDIA⚫
+.html">P L A Y</a></div>
+<!----------------------------------------------------------->
+<div class="container"><img src="
+IMAGEM⚫
+" alt="Avatar" style="width:90px"><p><b>
+NOMERÁDIA⚫
+<b></b></p><p><FONT COLOR="#bbb">
+NOMECOMPLEMENTAR⚫
+</FONT></p><a target="_blank" href="ARQUIVOS HTML/
+NOMERÁDIA⚫
+.html">P L A Y</a></div>
+<!----------------------------------------------------------->
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
+
